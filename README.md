@@ -17,7 +17,8 @@ For specific, detailed instructions, look at the project instructions in the Uda
 
 ## About the Author
 
-My name is Mina Khalaf,i am a student at faculty of computers and articial intelligence Cairo univesrsity 
+My name is Mina Khalaf, I am a student at faculty of computers and articial intelligence Cairo univesrsity 
+
 contact me : +201289655922
 
 ## Project Description
