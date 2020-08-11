@@ -94,6 +94,10 @@ section {
     transition: ease 0.3s all;
     cursor: pointer;
 }
+#clicked{
+    background-color: rgba(8, 2, 95, 0.753);
+}
+
 
 /* Header Styles */
 .page__header {
